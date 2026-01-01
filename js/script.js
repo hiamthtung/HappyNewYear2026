@@ -546,11 +546,17 @@ store.subscribe(handleStateChange);
 // Mảng câu chúc màu hồng
 const WISH_MESSAGES = [
 	"Năm mới vui vẻ",
-	"Đón nhận những thứ tuyệt vờiii",
-	"Chúc mọi điều ước của em đều trở thành hiện thực ✨",
+	"Đón nhận những điều vuiii",
+	"Chúc mọi điều ước của Ngọc đều trở thành hiện thực nhaaa ✨",
 	"Chúc gia đình sức khỏe, bình an và hạnh phúc ❤️",
-	"Chúc em luôn khỏe mạnh và tràn đầy năng lượng 💪",
-	"Chúc em năm nay đậu HNUE - SP HÀ NỘI nheee 🚀",
+	"Vạn sự như ý",
+	"Tỷ sự như mơ",
+	"Triệu triệu bất ngờ",
+	"Ngập tràn hạnh phúc :))",
+	"8386",
+	"Đặng Bảo Ngọc",
+	"Ngoan, Xinh, Iuu",
+	"Chúc Ngọc năm nay đậu HNUE - SP HÀ NỘI nheee 🚀",
 	"Yêu thương sức khỏe, mọi thứ xung quanh ❤️",
 	"Bỏ qua 2025, bước sang 2026 nhiều niềm vuiii",
 ];
