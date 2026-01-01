@@ -550,7 +550,7 @@ const WISH_MESSAGES = [
 	"Chúc mọi điều ước của em đều trở thành hiện thực ✨",
 	"Chúc gia đình sức khỏe, bình an và hạnh phúc ❤️",
 	"Chúc em luôn khỏe mạnh và tràn đầy năng lượng 💪",
-	"Chúc em năm nay đậu HNUE - SƯ PHẠM HÀ NỘI nheee 🚀",
+	"Chúc em năm nay đậu HNUE - SP HÀ NỘI nheee 🚀",
 	"Yêu thương sức khỏe, mọi thứ xung quanh ❤️",
 	"Bỏ qua 2025, bước sang 2026 nhiều niềm vuiii",
 ];
